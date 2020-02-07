@@ -6,7 +6,7 @@ repo for web 215 - link profile and repo and add date :)
 - Nur, Sabrina 
 - Pavlenko, Mariia
 - Pham, Thinh A.
-- Propheter, Robert M.
+- [Propheter, Robert M.](https://github.com/robert-m-proph) - [Class Repo](https://github.com/robert-m-proph/web215-propheter) - Robert was here 1:14pm 2/7/20
 - Schmid, Alexander
 - Scott, Terrell D.
 - Seelinger, Marc 
