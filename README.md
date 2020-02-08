@@ -1,7 +1,7 @@
 # web215
 repo for web 215 - link profile and repo and add date :)
 
-- [Cheek, Kendall M.] https://github.com/KendallCheek - [Class Repo] (https://github.com/KendallCheek/web215_kendallcheek) was here 2/7/20 10:42pm
+- [Cheek, Kendall M.]https://github.com/KendallCheek - [Class Repo](https://github.com/KendallCheek/web215_kendallcheek) was here 2/7/20 10:42pm
 - Haile, Safron H.
 - Nur, Sabrina 
 - Pavlenko, Mariia
