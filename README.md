@@ -10,7 +10,7 @@ repo for web 215 - link profile and repo and add date :)
 - Schmid, Alexander
 - Scott, Terrell D.
 - Seelinger, Marc 
-- Sosa, Emmanuel E.
+- Sosa, Emmanuel E.Sosa was here 2/11/2020 8:09pm
 - Thapa, Kewal 
 - von Briesen, D.I.
 - [Zelenina, Elena N.](https://github.com/ElenaZelenina/) - [Class Repo](https://github.com/ElenaZelenina/web215-Zelenina) - ElenaZelenina was here 13:00 pm 2/7/20
